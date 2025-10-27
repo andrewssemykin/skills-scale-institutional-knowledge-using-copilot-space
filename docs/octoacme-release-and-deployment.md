@@ -19,9 +19,12 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
+- [ ] UX Designer validates design implementation in staging (if applicable)
+- [ ] Business Analyst confirms acceptance criteria are met (if applicable)
 - [ ] Deploy to production (automated pipeline preferred)
 - [ ] Run post-deploy verifications
-- [ ] Announce release to stakeholders and support
+- [ ] Announce release to stakeholders and Support/Customer Success team
+- [ ] Update knowledge base and training materials (Support/Customer Success)
 
 ## Rollback & Incident Playbook
 - If a deployment fails or causes a critical issue:

@@ -20,9 +20,11 @@ Maintain a simple table with:
 - Monitor: review at weekly syncs and update status
 
 ## Stakeholder Communication
-- Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
+- Identify stakeholder groups and communication needs (e.g., engineering, sales, support, UX, business teams)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+- Ensure Support/Customer Success team is informed of changes that impact customers
+- Keep Business Analyst informed of scope or requirement changes
 
 ## Communication Templates
 Weekly Status Template:
